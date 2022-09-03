@@ -27,3 +27,7 @@ a:link {
 a:hover {
   text-decoration: underline;
 }
+
+button {
+  margin: 0.4rem;
+}
